@@ -1,6 +1,6 @@
 public class Ejercicio_1 {
     public static void main(String[] args) {
-        int n = 5; // Cambia este valor según tus necesidades
+        int n = 5;
         int suma = sumaNaturales(n);
         System.out.println("La suma de los primeros " + n + " números naturales es: " + suma);
     }
